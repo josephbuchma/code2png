@@ -1,0 +1,28 @@
+{
+  "name": "code2png",
+  "version": "1.0.0",
+  "description": "Generate image from code snippet",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.6.11",
+    "highlight.js": "^9.12.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephbuchma/code2png.git"
+  },
+  "keywords": [
+    "code2png"
+  ],
+  "author": "Joseph Buchma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephbuchma/code2png/issues"
+  },
+  "homepage": "https://github.com/josephbuchma/code2png#readme"
+}
